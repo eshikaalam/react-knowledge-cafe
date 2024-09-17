@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/ZxgQLph/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Understanding Quantum Computing",
+      "author": "John Doe",
+      "author_image": "https://i.ibb.co.com/hVvSzHJ/bunny.jpg",
+      "posted_date": "2024-09-01",
+      "reading_time": "8",
+      "hashtags": ["#QuantumComputing", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/GvYK9BZ/top-view-desk-concept-with-coffee.jpg",
+      "title": "The Rise of Artificial Intelligence",
+      "author": "Jane Smith",
+      "author_image": "https://i.ibb.co.com/nMkq8Kp/desktop-wallpaper-cute-girl-with-cat-baby-cute-girl-cat.jpg",
+      "posted_date": "2024-08-15",
+      "reading_time": "10",
+      "hashtags": ["#AI", "#MachineLearning", "#Innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/Rh1Jjh0/high-angle-desktop-with-laptop-copy-space.jpg",
+      "title": "Climate Change and Its Impact on Coastal Cities",
+      "author": "Emily Johnson",
+      "author_image": "https://i.ibb.co.com/VL8Bcqm/child-play-happy-kids.jpg",
+      "posted_date": "2024-08-25",
+      "reading_time": "7",
+      "hashtags": ["#ClimateChange", "#Environment", "#Sustainability"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/cvqbtKg/nature-beach-ocean-sea-wallpaper.jpg",
+      "title": "The Evolution of Web Development",
+      "author": "Michael Lee",
+      "author_image": "https://i.ibb.co.com/GWq5xX4/HD-wallpaper-little-cute-girl-is-kissing-white-black-cat-wearing-dark-maroon-dress-and-cap-cute.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": "12",
+      "hashtags": ["#WebDevelopment", "#Programming", "#JavaScript"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/JpC61Fn/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "title": "Exploring the Cosmos: The Search for Extraterrestrial Life",
+      "author": "Sarah Brown",
+      "author_image": "https://i.ibb.co.com/sy31jqG/bunny-with-kid.jpg",
+      "posted_date": "2024-07-30",
+      "reading_time": "15",
+      "hashtags": ["#Space", "#Astronomy", "#Cosmos"]
+    }
+  ]
+  
